@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Hola, como estas?"
 ---
 
-I'm glad you are here. I plan to talk about ...
+IHola, estoy aprendio a progamar, me gustaria aprender primero que todo con sitios webs. Gracias por pasarte, se que esta vacia pero es primera prueba asi que espero que te guste!
